@@ -1,0 +1,68 @@
+<div class="panel panel-primary" style="width:700px;height:400px; margin:0 auto;" ng-controller="ProListCtrl">
+    <div class="panel-heading" style="width:700px;" >
+        <div class="panel-title" style="text-align:center;">新增商品</div>
+    </div>
+    <div class="panel-body" style="width:700px;">
+        <div class="row">
+            <div class="col-md-12">
+                <form class="form-horizontal" role="form" name="saveForm" ng-submit="prolist({proType:0})">
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            商品名称：
+                        </label>
+                        <div class="col-md-10">
+                            <input type="text" class="form-control" placeholder="请输入商品名称" ng-model="user.proName" focus required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            商品类型：
+                        </label>
+                        <div class="col-md-10">
+                            <select class="form-control">
+                                <option>食品</option>
+                                <option>非食品</option>
+                                <option>生活用品</option>
+                                <option>家居用品</option>
+                                <option>日常穿戴</option>
+                                <option>生活饮食</option>
+                            </select>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            添加日期：
+                        </label>
+                        <div class="col-md-10">
+                            <input type="date" class="form-control"  ng-model="weitooDate.value" focus required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            添加人：
+                        </label>
+                        <div class="col-md-10">
+                            <input type="text" class="form-control" placeholder="请输入添加人姓名" ng-model="user.name" focus required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label class="col-md-2 control-label">
+                            是否有库存：
+                        </label>
+                        <div class="col-md-10">
+                            <input type="checkbox" ng-model="user.autoLogin" focus required>
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <div class="col-md-offset-2 col-md-10">
+                            <button  ui-sref="prolist({proType:0})" class="btn btn-success" ng-disabled='!saveForm.$valid'>保存</button>
+                            <!-- <a  ui-sref="prolist" class="btn btn-success">保存</a> -->
+                            <a ui-sref="prolist({proType:0})" class="btn btn-primary">取消</a>
+                            <button class="btn btn-default" ng-click="reset()">清空表单</button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,120 @@
+<div class="navbar navbar-inverse" role="navigation" ng-controller="ProListCtrl">
+    <ul class="nav navbar-nav">
+        <li class="active"><a ng-href="">首页</a></li>
+        <li class="dropdown">
+            <a href="" data-toggle="dropdown" class="dropdown-toggle">Area接口<span class="caret"></span></a>
+            <ul class="dropdown-menu">
+                <li><a href="">getOpenAreas</a></li>
+                <li class="disabled"><a href="">非选按钮</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+          <a href="" data-toggle="dropdown" class="dropdown-toggle">User接口<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+             <li><a href="">checkAccount</a></li>
+             <li><a href="">login</a></li>
+             <li><a href="">register</a></li>
+             <li><a href="">resetPwd</a></li>
+          </ul>
+        </li>
+        <li>
+        <a href="" data-toggle="dropdown" class="dropdown-toggle">Shop接口<span class="caret"></span></a>
+           <ul class="dropdown-menu">
+               <li><a href="">shopAdminLogin</a></li>
+               <li><a href="">getNearByShops</a></li>
+               <li><a href="">updateShop</a></li>
+               <li><a href="">updateShopAccount</a></li>
+               <li><a href="">updateShopAccountPwd</a></li>
+               <li><a href="">updateShopClearanceAccount</a></li>
+           </ul>
+        </li>
+        <li>
+          <a href="" data-toggle="dropdown" class="dropdown-toggle">Report接口<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+            <li><a href="">getBusinessTrends</a></li>
+            <li><a href="">getCategoryAnalysis</a></li>
+            <li><a href="">getCommodityOrder</a></li>
+            <li><a href="">getRevenueTrends</a></li>
+            <li><a href="">getSalesAnalysis</a></li>
+          </ul>
+        </li>
+        <li>
+        <a href="" data-toggle="dropdown" class="dropdown-toggle">Common接口<span class="caret"></span></a>
+           <ul class="dropdown-menu">
+               <li><a href="">checkValidationCode</a></li>
+               <li><a href="">sendShortMsg</a></li>
+               <li><a href="">upload</a></li>
+           </ul>
+      </li>
+      <li>
+        <a href="" data-toggle="dropdown" class="dropdown-toggle">Config接口<span class="caret"></span></a>
+           <ul class="dropdown-menu">
+               <li><a href="">getConfig</a></li>
+           </ul>
+      </li>
+      <li>
+        <a href="" data-toggle="dropdown" class="dropdown-toggle">Order接口<span class="caret"></span></a>
+           <ul class="dropdown-menu">
+               <li><a href="">order</a></li>
+           </ul>
+      </li>
+      <li>
+        <a href="" data-toggle="dropdown" class="dropdown-toggle">Commodity接口<span class="caret"></span></a>
+           <ul class="dropdown-menu">
+               <li><a href="">addCommodity</a></li>
+               <li><a href="">createCommodityCode</a></li>
+               <li><a href="">getCodeImg</a></li>
+               <li><a href="">getCommodity</a></li>
+               <li><a href="">getCommodityCategory</a></li>
+               <li><a href="">getOnlineCommodity</a></li>
+               <li><a href="">getProperty</a></li>
+               <li><a href="">getPublicPics</a></li>
+               <li><a href="">searchCommodity</a></li>
+               <li><a href="">updateCommodityInfo</a></li>
+               <li><a href="">updateCommodityStatus</a></li>
+           </ul>
+      </li>
+      <li>
+        <a href="" data-toggle="dropdown" class="dropdown-toggle">技术支持<span class="caret"></span></a>
+           <ul class="dropdown-menu">
+               <li><a href="http://api.weitoo.com/server/api/">微兔后台API</a></li>
+               <li><a href="https://docs.angularjs.org/api/ng/service/">Angular API</a></li>
+               <li><a href="https://nodejs.org/">Node API</a></li>
+               <li><a href="http://www.expressjs.com.cn/">Express API</a></li>
+               <li><a href="https://www.npmjs.com/">NPM</a></li>
+           </ul>
+      </li>
+   
+    <form  class="navbar-form navbar-left" rol="search">
+        <div class="form-group controls-row">
+            <button type="submit" autocomplete="on" name="words" value="" class="btn btn-default"><span class="sr-only">搜索</span><span class="glyphicon glyphicon-search "></span>
+      </button>
+      <input  type="text" placeholder="输入关键字搜索" class="form-control" ng-model="filterService.searchText">
+        </div>
+    </form>
+
+    <form  action="" class="navbar-form navbar-left form-horizontal" rol="search" ng-controller="FilterCtrl">
+        <!-- <div class="form-group controls-row">
+            <button type="submit" autocomplete="on" name="words" value="" class="btn btn-default"><span class="sr-only">搜索</span><span class="glyphicon glyphicon-search "></span>
+      </button>
+      <input  type="text" placeholder="输入关键字搜索" class="form-control" ng-model="filterService.searchText">
+        </div> -->
+        <div class="form-group controls-row">
+        <input type="submit" class="btn btn-default control-label"><span class="sr-only">搜索</span><span class="glyphicon glyphicon-search "></span>
+        </input>
+          <select  ng-model="filterService.activeFilters.name">
+            <option class="controls" ng-repeat="name in ['黄鹤楼', '日用百货','利群','清洁剂','个人护理','纯净水','果蔬饮品','碳酸汽水','茶饮咖啡','果冻糖果','方便速食','果干蜜饯','篮球','']">{{name}}</option>
+          </select>
+      </div>
+    </form>
+
+    <!-- <form class="form-group" class="navbar-form navbar-left" rol="search">
+      <div class="form-group">
+       <button type="button"  class="btn btn-default"><span class="sr-only">搜索</span><span class="glyphicon glyphicon-search"></span>
+       </button>
+          <input type="text" placeholder="输入关键字搜索" class="form-control" id="searchTextBox" ng-model="filterService.searchText">
+        </div>
+    </form> -->
+      <li><a ng-href="/src/" class="active">退出</a></li>
+     </ul>
+</div>

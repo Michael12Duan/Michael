@@ -1,0 +1,140 @@
+<div ng-controller="ProListCtrl">
+    <div class="row">
+        <div class="col-md-12">
+            <a ui-sref="" class="btn btn-primary">按钮</a>
+        </div>
+    </div> 
+    <div class="row">
+        <div class="col-md-4">
+            <div>
+                <div class="gridStyle" ng-grid="gridOpenAreas"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div>
+                <div class="gridStyle" ng-grid="gridBlackList"></div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <div>
+                <div class="gridStyle" ng-grid="gridCodeImages"></div>
+            </div>
+        </div>
+    </div>
+<div class="row">
+  <div class="col-xs-6">
+     <!-- <input type="search" ng-model="searchText" placeholder="请输入关键字搜索"><span class="sr-only">搜索</span><span class="glyphicon glyphicon-search"></span> -->
+     <!-- <table class="table table-striped table-bordered table-hover"> -->
+       <!--  <thead>
+           <tr>
+              <th>序号</th>
+              <th>省份</th>
+              <th>城市</th>
+              <th>区域</th>
+              <th>街道</th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr ng-repeat="dat in oa | filter:searchText">
+              <td>{{dat.id}}</td>
+              <td>{{dat.province}}</td>
+              <td>{{dat.city}}</td>
+              <td>{{dat.district}}</td>
+              <td>{{dat.street}}</td>
+         </tr>
+         </tbody>-->
+
+         <!--  <thead>
+           <tr>
+              <th>序号</th>
+              <th>名称</th>
+              <th>类型</th>
+              <th>类号</th>
+              <th>价格</th>
+              <th>barcode</th>
+              <th>库存</th>
+              <th>路径</th>
+              <th>状态</th>
+             </tr>
+         </thead>
+         <tbody>
+            <tr ng-repeat="dat in ports| filter:searchText">
+              <td>{{dat.id}}</td>
+              <td>{{dat.name}}</td>
+              <td>{{dat.categoryName}}</td>
+              <td>{{dat.categoryId}}</td>
+              <td>{{dat.price}}</td>
+              <td>{{dat.barcode}}</td>
+              <td>{{dat.stock}}</td>
+              <td>{{dat.picPath}}</td>
+              <td>{{dat.status}}</td>
+         </tr>
+       </tbody> 
+     </table> -->
+   </div>
+  </div>
+<!--FilterCtrl-->
+ <!-- <div class="row" ng-controller="FilterCtrl">
+  <div class="col-xs-6">
+  <table  class="table table-striped table-bordered table-hover">
+      <thead>
+      <tr>
+        <th>序号</th>
+        <th>名字</th>
+        <th>顺序</th>
+        <th>父序号</th>
+        <th>操作</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr ng-repeat=" dat in comCats | filter:filterService.activeFilters | filter:filterService.searchText">
+        <td>{{dat.id}}</td>
+        <td>{{dat.name}}</td>
+        <td>{{dat.order}}</td>
+        <td>{{dat.parentId}}</td>
+        <td>{{dat.action}}</td>
+      </tr>
+      </tbody>
+  </table>
+ </div>
+</div> -->
+
+<!-- <div class="row">
+  <div class="col-xs-12">
+  <table  class="table table-striped table-bordered table-hover">
+      <thead>
+      <tr>
+        <th>序号</th>
+        <th>名称</th>
+        <th>类型</th>
+        <th>类号</th>
+        <th>价格</th>
+        <th>barcode</th>
+        <th>库存</th>
+        <th>路径</th>
+        <th>状态</th>
+      </tr>
+      </thead>
+      <tbody>
+      <tr ng-repeat="team in ports | filter:filterService.activeFilters | filter:filterService.searchText">
+        <td>{{dat.id}}</td>
+        <td>{{dat.name}}</td>
+        <td>{{dat.categoryName}}</td>
+        <td>{{dat.categoryId}}</td>
+        <td>{{dat.price}}</td>
+        <td>{{dat.barcode}}</td>
+        <td>{{dat.stock}}</td>
+        <td>{{dat.picPath}}</td>
+        <td>{{dat.status}}</td>
+      </tr>
+      </tbody>
+  </table>
+ </div>
+</div>  -->
+</div>
+
+

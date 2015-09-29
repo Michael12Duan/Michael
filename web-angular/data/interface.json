@@ -1,0 +1,60 @@
+[
+  { 
+  	"id":"1",
+  	"url":"/api.weitoo.com/server/sc/area/getOpenAreas",
+  	"param":""
+  	},
+    { 
+    "id":"2",
+    "url":"/api.weitoo.com/server/sc/blackList/getBlackListForUser",
+    "userType":"1",
+    "userId":"1063630",
+    "targetId":"1000001"
+    },
+  	{ 
+  	"id":"3",
+  	"url":"/api.weitoo.com/server/sc/commodity/getCommodity",
+  	"shopId":"1000001",
+  	"page":"1",
+  	"limit":"100"
+  	},
+    { 
+    "id":"4",
+    "url":"/api.weitoo.com/server/sc/commodity/getCodeImg",
+    "code": "testMike"
+    },
+     { 
+    "id":"5",
+    "url":"/api.weitoo.com/server/sc/commodity/getCommodityCategory"
+    },
+    { 
+    "id":"6",
+    "url":"/api.weitoo.com/server/sc/commodity/getOnlineCommodity",
+    "shopId":"1000001",
+    "page":"",
+    "limit":"100"
+    },
+    { 
+    "id":"7",
+    "url":"/api.weitoo.com/server/sc/commodity/getProperty",
+    "property":"category_version"
+    },
+    { 
+    "id":"8",
+    "url":"/api.weitoo.com/server/sc/commodity/getPublicPics",
+    "shopId": "0",
+    "keyword": "6953252600051"
+    },
+    { 
+    "id":"9",
+    "url":"/api.weitoo.com/server/sc/commodity/searchCommodity",
+    "shopId": "0",
+    "keyword": ""
+    },
+    { 
+    "id":"10",
+    "url":"/api.weitoo.com/server/pub/user/login",
+    "account": "13760215482",
+    "password": "8d969eef6ecad3c29a3a629280e686cf0c3f5d5a86aff3ca12020c923adc6c92"
+    }
+]

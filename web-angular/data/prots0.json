@@ -1,0 +1,1574 @@
+[{
+  "status" : 1,
+  "data" : {
+    "commodityDTO" : [ {
+      "id" : 1000002,
+      "categoryId" : 79,
+      "barcode" : "123456789012",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 2,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1000003,
+      "categoryId" : 79,
+      "barcode" : "1234561222222",
+      "name" : "利群",
+      "price" : 13.5,
+      "stock" : 22,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 0,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1000401,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 0,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1000501,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1000502,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1000601,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001001,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001101,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001201,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001301,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001401,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001501,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001601,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001602,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001603,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001701,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001801,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001904,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1001905,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1002001,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1002101,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1002201,
+      "categoryId" : 21,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "果冻糖果"
+    }, {
+      "id" : 1002301,
+      "categoryId" : 21,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "果冻糖果"
+    }, {
+      "id" : 1002302,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1002401,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1002402,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1003302,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1003304,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1003402,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 100,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1003404,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 200,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 2,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1003602,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 300,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 0,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1003702,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 400,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1003802,
+      "categoryId" : 90,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 500,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "雪糕冰淇淋"
+    }, {
+      "id" : 1003903,
+      "categoryId" : 82,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 600,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 0,
+      "categoryName" : "白酒"
+    }, {
+      "id" : 1004302,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 700,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 0,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1005401,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534900cb9f9f.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1005602,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 11,
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1005702,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 900,
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1005704,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 1000,
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1005706,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.2,
+      "stock" : 104,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 0,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1005708,
+      "categoryId" : 43,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 300,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 2,
+      "categoryName" : "口腔护理"
+    }, {
+      "id" : 1005801,
+      "categoryId" : 13,
+      "barcode" : "6953252600051",
+      "name" : "贝塔柠檬番茄汁",
+      "price" : 8.0,
+      "stock" : 12333,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 0,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1005802,
+      "categoryId" : 13,
+      "barcode" : "6953252600051",
+      "name" : "贝塔柠檬番茄汁",
+      "price" : 999.0,
+      "stock" : 111,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 2,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1006202,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006301,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006401,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006501,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006502,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006601,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006701,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006801,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1006902,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007101,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007202,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007204,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1007301,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007401,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007501,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007503,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007504,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007505,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007507,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007601,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "http://192.168.0.123:8080/server/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007701,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007801,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007802,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 2,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1007901,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1008001,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1008101,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 111,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1008201,
+      "categoryId" : 39,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 11,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "烹饪调料"
+    }, {
+      "id" : 1008301,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1008401,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 123,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1008501,
+      "categoryId" : 70,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 133,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "乳脂饮料"
+    }, {
+      "id" : 1008502,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 200,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 2,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1008503,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 33,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1011301,
+      "categoryId" : 79,
+      "barcode" : "11111111",
+      "name" : "222222222",
+      "price" : 0.0,
+      "stock" : 0,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1011401,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1011402,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1011701,
+      "categoryId" : 79,
+      "barcode" : "1234444",
+      "name" : "黄鹤楼",
+      "price" : 12.22,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1012101,
+      "categoryId" : 70,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 133,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "乳脂饮料"
+    }, {
+      "id" : 1012102,
+      "categoryId" : 11,
+      "barcode" : "6953252600015",
+      "name" : "怡宝纯净水",
+      "price" : 2.5,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "纯净水"
+    }, {
+      "id" : 1012103,
+      "categoryId" : 22,
+      "barcode" : "6953252600016",
+      "name" : "康师傅方便面",
+      "price" : 4.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "方便速食"
+    }, {
+      "id" : 1012104,
+      "categoryId" : 28,
+      "barcode" : "6953252600017",
+      "name" : "乐事薯片",
+      "price" : 10.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "膨化食品"
+    }, {
+      "id" : 1012105,
+      "categoryId" : 32,
+      "barcode" : "6953252600018",
+      "name" : "思念水饺",
+      "price" : 15.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "冷冻速食"
+    }, {
+      "id" : 1012106,
+      "categoryId" : 42,
+      "barcode" : "6953252600019",
+      "name" : "舒肤佳香皂",
+      "price" : 4.5,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "香皂|沐浴露"
+    }, {
+      "id" : 1012107,
+      "categoryId" : 57,
+      "barcode" : "6953252600020",
+      "name" : "斯皮尔篮球",
+      "price" : 150.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1012108,
+      "categoryId" : 79,
+      "barcode" : "6953252600021",
+      "name" : "软装黄鹤楼",
+      "price" : 20.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1012109,
+      "categoryId" : 55,
+      "barcode" : "6953252600014",
+      "name" : "清洁剂",
+      "price" : 10.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "家用清洁"
+    }, {
+      "id" : 1012310,
+      "categoryId" : 57,
+      "barcode" : "57344455",
+      "name" : "111",
+      "price" : 200.0,
+      "stock" : 2,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1012311,
+      "categoryId" : 57,
+      "barcode" : "57344455",
+      "name" : "111",
+      "price" : 200.0,
+      "stock" : 2,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1012410,
+      "categoryId" : 57,
+      "barcode" : "57344455",
+      "name" : "篮球",
+      "price" : 200.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1012510,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1012610,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.13,
+      "stock" : 101,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534906557cb4.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1012611,
+      "categoryId" : 55,
+      "barcode" : "6953252600014",
+      "name" : "清洁剂",
+      "price" : 10.0,
+      "stock" : 800,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "家用清洁"
+    }, {
+      "id" : 1012612,
+      "categoryId" : 55,
+      "barcode" : "6953252600014",
+      "name" : "清洁剂",
+      "price" : 10.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "家用清洁"
+    }, {
+      "id" : 1012613,
+      "categoryId" : 11,
+      "barcode" : "6953252600015",
+      "name" : "怡宝纯净水",
+      "price" : 2.5,
+      "stock" : 333,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "纯净水"
+    }, {
+      "id" : 1012614,
+      "categoryId" : 11,
+      "barcode" : "6953252600015",
+      "name" : "怡宝纯净水",
+      "price" : 2.5,
+      "stock" : 88,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "纯净水"
+    }, {
+      "id" : 1012615,
+      "categoryId" : 22,
+      "barcode" : "6953252600016",
+      "name" : "康师傅方便面",
+      "price" : 4.0,
+      "stock" : 33,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "方便速食"
+    }, {
+      "id" : 1012616,
+      "categoryId" : 22,
+      "barcode" : "6953252600016",
+      "name" : "康师傅方便面",
+      "price" : 4.0,
+      "stock" : 66,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "方便速食"
+    }, {
+      "id" : 1012617,
+      "categoryId" : 28,
+      "barcode" : "6953252600017",
+      "name" : "乐事薯片",
+      "price" : 10.0,
+      "stock" : 22,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "膨化食品"
+    }, {
+      "id" : 1012618,
+      "categoryId" : 32,
+      "barcode" : "6953252600018",
+      "name" : "思念水饺",
+      "price" : 15.0,
+      "stock" : 222,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "冷冻速食"
+    }, {
+      "id" : 1012619,
+      "categoryId" : 57,
+      "barcode" : "6953252600020",
+      "name" : "斯皮尔篮球",
+      "price" : 150.0,
+      "stock" : 338,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1012620,
+      "categoryId" : 57,
+      "barcode" : "6953252600020",
+      "name" : "斯皮尔篮球",
+      "price" : 150.0,
+      "stock" : 11,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1012810,
+      "categoryId" : 79,
+      "barcode" : "6953252600021",
+      "name" : "软装黄鹤楼",
+      "price" : 20.0,
+      "stock" : 111,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1012811,
+      "categoryId" : 68,
+      "barcode" : "6953252600022",
+      "name" : "益达无糖木糖醇",
+      "price" : 10.5,
+      "stock" : 222,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "口香糖"
+    }, {
+      "id" : 1012812,
+      "categoryId" : 81,
+      "barcode" : "6953252600023",
+      "name" : "青岛啤酒",
+      "price" : 4.5,
+      "stock" : 333,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "啤酒"
+    }, {
+      "id" : 1012813,
+      "categoryId" : 92,
+      "barcode" : "6953252600024",
+      "name" : "橘片爽",
+      "price" : 6.0,
+      "stock" : 444,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "罐头食品"
+    }, {
+      "id" : 1012814,
+      "categoryId" : 41,
+      "barcode" : "6953252600025",
+      "name" : "山西老陈醋",
+      "price" : 10.0,
+      "stock" : 555,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "香醋酱油"
+    }, {
+      "id" : 1012910,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1013010,
+      "categoryId" : 60,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 100,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "厨具水具"
+    }, {
+      "id" : 1013110,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 122,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1013111,
+      "categoryId" : 57,
+      "barcode" : "6953252600020",
+      "name" : "斯皮尔篮球",
+      "price" : 150.0,
+      "stock" : 333,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1013112,
+      "categoryId" : 11,
+      "barcode" : "6953252600015",
+      "name" : "怡宝纯净水",
+      "price" : 2.5,
+      "stock" : 333,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "纯净水"
+    }, {
+      "id" : 1013210,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1013310,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1013410,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1013510,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1013610,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1013912,
+      "categoryId" : 55,
+      "barcode" : "6953252600014",
+      "name" : "清洁剂",
+      "price" : 10.0,
+      "stock" : 222,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "家用清洁"
+    }, {
+      "id" : 1013913,
+      "categoryId" : 22,
+      "barcode" : "6953252600016",
+      "name" : "康师傅方便面",
+      "price" : 4.0,
+      "stock" : 333,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "方便速食"
+    }, {
+      "id" : 1013914,
+      "categoryId" : 28,
+      "barcode" : "6953252600017",
+      "name" : "乐事薯片",
+      "price" : 10.0,
+      "stock" : 44,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "膨化食品"
+    }, {
+      "id" : 1013915,
+      "categoryId" : 32,
+      "barcode" : "6953252600018",
+      "name" : "思念水饺",
+      "price" : 15.0,
+      "stock" : 44,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "冷冻速食"
+    }, {
+      "id" : 1013916,
+      "categoryId" : 42,
+      "barcode" : "6953252600019",
+      "name" : "舒肤佳香皂",
+      "price" : 4.5,
+      "stock" : 444,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "香皂|沐浴露"
+    }, {
+      "id" : 1013917,
+      "categoryId" : 79,
+      "barcode" : "6953252600021",
+      "name" : "软装黄鹤楼",
+      "price" : 20.0,
+      "stock" : 444,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1014011,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014012,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014013,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014014,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014015,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014019,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014023,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014027,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014031,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014035,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014041,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014042,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 222,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1014045,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 8.0,
+      "stock" : 55,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1014048,
+      "categoryId" : 57,
+      "barcode" : "6953252600020",
+      "name" : "斯皮尔篮球",
+      "price" : 150.0,
+      "stock" : 444,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014049,
+      "categoryId" : 79,
+      "barcode" : "6953252600021",
+      "name" : "软装黄鹤楼",
+      "price" : 20.0,
+      "stock" : 5455,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348ff7136c1.jpg",
+      "status" : 1,
+      "categoryName" : "烟草"
+    }, {
+      "id" : 1014057,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014061,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014065,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014069,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014073,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014110,
+      "categoryId" : 13,
+      "barcode" : "6953252600013",
+      "name" : "贝塔柠檬胡萝卜汁",
+      "price" : 18.0,
+      "stock" : 33333,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/55348f4cbcfcf.jpg",
+      "status" : 1,
+      "categoryName" : "果蔬饮品"
+    }, {
+      "id" : 1014210,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014310,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014410,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014510,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014610,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014710,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014810,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1014910,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1015010,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1015110,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1015213,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    }, {
+      "id" : 1015310,
+      "categoryId" : 57,
+      "barcode" : "577344455",
+      "name" : "篮球",
+      "price" : 300.0,
+      "stock" : 20,
+      "picPath" : "/Uploads/Shoppic/2015/04/20/5534910c6c6fe.jpg",
+      "status" : 1,
+      "categoryName" : "文体|玩具"
+    } ],
+    "count" : 157
+  }
+}]
